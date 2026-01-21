@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "author": "KyThuongTienDan",
+    "description": "Danh sách plugin nguồn truyện"
+  },
+  "data": [
+    {
+      "name": "WebNovelVN",
+      "author": "KyThuongTienDan",
+      "path": "https://raw.githubusercontent.com/KyThuongTienDan/plugin-webnovelvn/main/webnovelvn/plugin.zip",
+      "version": 1.0,
+      "source": "https://webnovelvn.com/",
+      "icon": "https://raw.githubusercontent.com/KyThuongTienDan/plugin-webnovelvn/main/webnovelvn/icon.png",
+      "description": "Nguồn truyện chữ tiếng Việt từ WebNovelVN",
+      "type": "novel",
+      "locale": "vi_VN",
+      "tag": "novel"
+    }
+  ]
+}
