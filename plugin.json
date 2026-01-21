@@ -1,18 +1,18 @@
-{
+  {
   "metadata": {
     "author": "KyThuongTienDan",
-    "description": "Danh sách plugin nguồn truyện"
+    "description": "quỷ seg"
   },
   "data": [
     {
       "name": "WebNovelVN",
       "author": "KyThuongTienDan",
-      "path": "https://raw.githubusercontent.com/KyThuongTienDan/plugin-webnovelvn/main/webnovelvn/plugin.zip",
-      "version": 1.0,
+      "path": "https://raw.githubusercontent.com/KyThuongTienDan/vbook-extension/-/raw/main/WebNovelVN/plugin.zip",
+      "version": 3,
       "source": "https://webnovelvn.com/",
-      "icon": "https://raw.githubusercontent.com/KyThuongTienDan/plugin-webnovelvn/main/webnovelvn/icon.png",
-      "description": "Nguồn truyện chữ tiếng Việt từ WebNovelVN",
-      "type": "novel",
+      "icon": "https://gitlab.com/hieunm3103/vbook-extension/-/raw/main/Buondua/icon.png",
+      "description": "Tập Hợp Album của Xiuren...",
+      "type": "comic",
       "locale": "vi_VN",
       "tag": "novel"
     }
